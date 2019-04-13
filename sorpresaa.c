@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
-
+# no vuelve a pedir contrasena si no son iguales ni libera los punteros
+# 10/20
 void comparacion(char *c, char *b);
 
 int main(int aklp, char *afcr[]) {
